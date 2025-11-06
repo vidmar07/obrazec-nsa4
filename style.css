@@ -43,7 +43,7 @@ input{
     border-radius: 3px;
     border: none;
     font-size: 20px;
-	padding:0 0 0 2px;
+	padding:0 0 0 20px;
 	color: white;
 }
 
@@ -203,6 +203,7 @@ label{
         margin-top: 40px;
     }
 }
+
 
 
 
