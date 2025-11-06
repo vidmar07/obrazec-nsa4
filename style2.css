@@ -43,7 +43,7 @@ input{
     border-radius: 3px;
     border: none;
     font-size: 20px;
-	padding-right: 2px;
+	padding:0 0 0 20px;
 	color: white;
 }
 
@@ -204,4 +204,5 @@ label{
     }
 
 }
+
 
