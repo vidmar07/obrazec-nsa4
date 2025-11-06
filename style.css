@@ -13,7 +13,6 @@ body{
     background-blend-mode: darken;
 	background-size: cover;
     background-position: center;
-    min-height: 100%;
 }
 
 .logo img{
@@ -207,6 +206,7 @@ label{
         margin-top: 40px;
     }
 }
+
 
 
 
