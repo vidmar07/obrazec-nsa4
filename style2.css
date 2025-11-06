@@ -43,6 +43,8 @@ input{
     border-radius: 3px;
     border: none;
     font-size: 20px;
+	padding-right: 2px;
+	text-color: white;
 }
 
 input::placeholder{
@@ -200,4 +202,5 @@ label{
         font-size: 10px;
         margin-top: 40px;
     }
+
 }
